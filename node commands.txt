@@ -1,0 +1,26 @@
+Assignment 3a
+
+npm --version
+
+node -- version
+
+npm init
+
+description static website
+
+git link
+
+y
+
+npm i express --save
+
+make index.js
+
+const express require("express")
+const app=express()
+app.use(expres.static('public')
+app.listen(3000,(req,res)=>{ console.log("server is running on the port 3000)}
+
+run the js file
+
+node index.js
